@@ -1,0 +1,7 @@
+cap label var TOTAL "Total"
+cap label var WORK "Income from work"
+cap label var PRIV "Private sources"
+cap label var SOC_TRF "Social transfers"
+cap label var PRIMARY "Primary income"
+cap label var SECONDARY "Secondary income"
+cap label var UNK "Unknown"
